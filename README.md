@@ -9,7 +9,9 @@
 
 **Nitin Kumar**  
 Indian Institute of Technology Kharagpur  
-🔗 LinkedIn | 📄 Final Report (PDF)
+<a href="https://www.linkedin.com/in/nitin-kumar-3722212ab/" target="_blank">🔗 LinkedIn</a> |
+<a href="https://github.com/samosa1610/NK-volatility-prediction/blob/main/NKSR2025_Volatility_Prediction_Report.pdf" target="_blank">📄 Final Report (PDF)</a>
+
 
 ---
 
